@@ -1,0 +1,38 @@
+Source: veyon
+Section: education
+Priority: optional
+Maintainer: Tobias Junghans <tobydox@veyon.io>
+Build-Depends: debhelper-compat (= 12),
+               dpkg-dev (>= 1.17.5),
+               git,
+               cmake,
+               qt6-base-dev (>= 6.4.2) | qtbase5-dev,
+               qt6-5compat-dev (>= 6.4.2) | qtbase5-private-dev,
+               qt6-l10n-tools (>= 6.4.2) | qtbase5-dev-tools,
+               qt6-tools-dev (>= 6.4.2) | qttools5-dev-tools,
+               qt6-httpserver-dev (>= 6.4.2) | qttools5-dev,
+               qt6-websockets-dev (>= 6.4.2) | libqt5websockets5-dev,
+               xorg-dev,
+               libvncserver-dev,
+               libfakekey-dev,
+               libjpeg-dev,
+               zlib1g-dev,
+               libssl-dev,
+               libpam0g-dev,
+               libproc2-dev | libprocps-dev,
+               libldap2-dev,
+               libsasl2-dev,
+               libpng-dev,
+               liblzo2-dev,
+               libqca-qt6-dev | libqca-qt5-2-dev,
+               libpipewire-0.3-dev, libspa-0.2-dev
+Standards-Version: 4.6.2
+Homepage: https://veyon.io
+
+Package: veyon
+Architecture: any
+Depends: ${shlibs:Depends},
+ ${misc:Depends},
+ libqca-qt6-plugins | libqca-qt5-2-plugins
+Description: Veyon - Virtual Eye On Networks
+

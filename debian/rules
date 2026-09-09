@@ -1,0 +1,9 @@
+#!/usr/bin/make -f
+
+export DEB_BUILD_MAINT_OPTIONS=hardening=-format
+
+%:
+	dh $@
+
+override_dh_auto_configure:
+	dh_auto_configure -- -DWITH_QT6=$(if $(wildcard /usr/lib/qt6/.),ON,OFF) -DCMAKE_CXX_FLAGS=-Wno-maybe-uninitialized

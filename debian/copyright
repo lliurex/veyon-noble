@@ -1,0 +1,1522 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Veyon
+Upstream-Contact: Tobias Junghans <tobydox@veyon.io>
+Source: https://veyon.io
+
+Files: *
+Copyright: 2004-2018, Tobias Junghans <tobydox@veyon.io>
+License: GPL-2+
+
+Files: 3rdparty/kldap/autotests/testkldap.h
+Copyright: 2006, Volker Krause <vkrause@kde.org>
+License: LGPL-2+
+
+Files: 3rdparty/kldap/kioslave/*
+Copyright: 2008, Jarosław Staniek <staniek@kde.org>
+License: LGPL-2+
+
+Files: 3rdparty/kldap/kioslave/src/ldap/*
+Copyright: 2004-2007, Szombathelyi György <gyurco@freemail.hu>
+License: Expat
+
+Files: 3rdparty/kldap/src/*
+Copyright: 2004-2006, Szombathelyi György <gyurco@freemail.hu>
+License: LGPL-2+
+
+Files: 3rdparty/kldap/src/ldapattributeproxymodel.cpp
+  3rdparty/kldap/src/ldapattributeproxymodel.h
+  3rdparty/kldap/src/ldapdn.cpp
+  3rdparty/kldap/src/ldapdn.h
+  3rdparty/kldap/src/ldapmodel.cpp
+  3rdparty/kldap/src/ldapmodel.h
+  3rdparty/kldap/src/ldapmodel_p.cpp
+  3rdparty/kldap/src/ldapmodel_p.h
+  3rdparty/kldap/src/ldapmodelnode_p.cpp
+  3rdparty/kldap/src/ldapmodelnode_p.h
+  3rdparty/kldap/src/ldapstructureproxymodel.cpp
+  3rdparty/kldap/src/ldapstructureproxymodel.h
+Copyright: 2006, Sean Harmer <sh@theharmers.co.uk>
+License: LGPL-2+
+
+Files: 3rdparty/kldap/src/w32-ldap-help.h
+Copyright: 2010, Andre Heinecke <aheinecke@intevation.de>
+License: LGPL-2+
+
+Files: 3rdparty/libvncserver/*
+Copyright: 2001-2003, Johannes E. Schindelin
+  2001, Dan McGuirk <mcguirk@incompleteness.net>
+  2000-2003, Const Kaplinsky
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/client_examples/*
+Copyright: 2007, - Mateus Cesar Groess
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/client_examples/vnc2mpg.c
+Copyright: 2017, Tyrel M. McQueen
+  2003, Fabrice Bellard, 2004, Johannes E. Schindelin
+License: Expat
+
+Files: 3rdparty/libvncserver/common/*
+Copyright: 1996-2014, Markus Franz Xaver Johannes Oberhumer
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/common/base64.c
+Copyright: 1996, Internet Software Consortium.
+License: ISC
+ Please fill license ISC from header of 3rdparty/libvncserver/common/base64.c
+
+Files: 3rdparty/libvncserver/common/d3des.c
+  3rdparty/libvncserver/common/d3des.h
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/libvncserver/common/d3des.c 3rdparty/libvncserver/common/d3des.h
+
+Files: 3rdparty/libvncserver/common/md5.c
+  3rdparty/libvncserver/common/md5.h
+Copyright: 1995-1997, 1999-2001, 2004, 2005, Free Software Foundation, Inc.
+License: LGPL-2.1+
+
+Files: 3rdparty/libvncserver/common/rfbcrypto_gnutls.c
+  3rdparty/libvncserver/common/rfbcrypto_included.c
+  3rdparty/libvncserver/common/rfbcrypto_openssl.c
+Copyright: 2011, Gernot Tenchio
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/common/sha.h
+Copyright: 2011, IETF Trust and the persons identified as
+License: BSD-2-clause
+
+Files: 3rdparty/libvncserver/common/sha1.c
+Copyright: 2011, IETF Trust and the persons identified as
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/libvncserver/common/sha1.c
+
+Files: 3rdparty/libvncserver/common/turbojpeg.c
+  3rdparty/libvncserver/common/turbojpeg.h
+Copyright: 2009-2015, D. R. Commander.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/libvncserver/common/turbojpeg.c 3rdparty/libvncserver/common/turbojpeg.h
+
+Files: 3rdparty/libvncserver/common/vncauth.c
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/common/zywrletemplate.c
+Copyright: 2006, BY Hitachi Systems & Services, Ltd.
+License: BSD-3-clause
+
+Files: 3rdparty/libvncserver/compat/*
+Copyright: 2006-2008, Alexander Chemeris
+License: BSD-2-clause
+
+Files: 3rdparty/libvncserver/examples/*
+Copyright: no-info-found
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/examples/example.c
+Copyright: 2001, 2005, Johannes E. Schindelin <Johannes.Schindelin@gmx.de>
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/examples/mac.c
+Copyright: 2001, Dan McGuirk <mcguirk@incompleteness.net>.
+  1999, AT&T Laboratories Cambridge.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/libvncserver/examples/mac.c
+
+Files: 3rdparty/libvncserver/examples/storepasswd.c
+Copyright: 2001, Dan McGuirk <mcguirk@incompleteness.net>.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncclient/*
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncclient/cursor.c
+Copyright: 2001, 2002, Constantin Kaplinsky.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncclient/listen.c
+  3rdparty/libvncserver/libvncclient/sockets.c
+Copyright: 2011, 2012, Christian Beier <dontmind@freeshell.org>
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncclient/rfbproto.c
+Copyright: 2000-2002, Constantin Kaplinsky.
+  2000, Tridia Corporation.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncclient/sasl.c
+Copyright: 2009, 2010, Daniel P. Berrange <dan@berrange.com>
+  2006, Anthony Liguori <anthony@codemonkey.ws>
+License: LGPL-2.0+
+ Please fill license LGPL-2.0+ from header of 3rdparty/libvncserver/libvncclient/sasl.c
+
+Files: 3rdparty/libvncserver/libvncclient/sasl.h
+Copyright: 2017, S. Waterman.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncclient/tight.c
+Copyright: 2017, D. R. Commander.
+  2004-2008, Sun Microsystems, Inc.
+  2004, Landmark Graphics Corporation.
+  2000, 2001, Const Kaplinsky.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncclient/tls.h
+  3rdparty/libvncserver/libvncclient/tls_gnutls.c
+Copyright: 2009, Vic Lee.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncclient/tls_none.c
+Copyright: 2012, Christian Beier.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncclient/tls_openssl.c
+Copyright: 2012, Philip Van Hoof <philip@codeminded.be>
+  2009, Vic Lee.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncclient/trle.c
+Copyright: 2017, Wiki Wang <wikiwang@live.com>.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncclient/ultra.c
+  3rdparty/libvncserver/libvncclient/zlib.c
+Copyright: 2000, Tridia Corporation.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncclient/zrle.c
+Copyright: 2005, Johannes E. Schindelin.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncserver/*
+Copyright: 2001, Dan McGuirk <mcguirk@incompleteness.net>.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncserver/auth.c
+Copyright: 2005, Rohit Kumar, Johannes E. Schindelin
+  2001, Dan McGuirk <mcguirk@incompleteness.net>.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncserver/cargs.c
+  3rdparty/libvncserver/libvncserver/main.c
+Copyright: 2001, Johannes E. Schindelin <Johannes.Schindelin@gmx.de>
+  2001, Dan McGuirk <mcguirk@incompleteness.net>.
+  1999, AT&T Laboratories Cambridge.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/libvncserver/libvncserver/cargs.c 3rdparty/libvncserver/libvncserver/main.c
+
+Files: 3rdparty/libvncserver/libvncserver/corre.c
+  3rdparty/libvncserver/libvncserver/stats.c
+Copyright: 2002, RealVNC Ltd.
+  2001, Dan McGuirk <mcguirk@incompleteness.net>.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncserver/cursor.c
+Copyright: 2000, 2001, Const Kaplinsky.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncserver/httpd.c
+Copyright: 2011, 2012, Christian Beier <dontmind@freeshell.org>
+  2002, RealVNC Ltd.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncserver/rfbregion.c
+Copyright: 2001, James "Wez" Weatherall, Johannes E. Schindelin
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/libvncserver/libvncserver/rfbregion.c
+
+Files: 3rdparty/libvncserver/libvncserver/rfbserver.c
+Copyright: 2011, 2012, D. R. Commander
+  2005, Rohit Kumar, Johannes E. Schindelin
+  2002, RealVNC Ltd.
+  2001, Dan McGuirk <mcguirk@incompleteness.net>.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncserver/rfbssl_gnutls.c
+  3rdparty/libvncserver/libvncserver/rfbssl_openssl.c
+Copyright: 2011, Gernot Tenchio
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncserver/rfbssl_none.c
+Copyright: 2011, Johannes Schindelin
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncserver/scale.c
+Copyright: 2005, Rohit Kumar, Johannes E. Schindelin
+  2002, RealVNC Ltd.
+  2001, Dan McGuirk <mcguirk@incompleteness.net>.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncserver/sockets.c
+Copyright: 2011, 2012, Christian Beier <dontmind@freeshell.org>
+  2005, Rohit Kumar, Johannes E. Schindelin
+  2001, Dan McGuirk <mcguirk@incompleteness.net>.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncserver/tight.c
+Copyright: 2010-2012, D. R. Commander.
+  2005-2008, Sun Microsystems, Inc.
+  2004, Landmark Graphics Corporation.
+  2000, 2001, Const Kaplinsky.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncserver/tightvnc-filetransfer/*
+Copyright: 2005, Novell, Inc.
+License: GPL-2
+
+Files: 3rdparty/libvncserver/libvncserver/websockets.c
+Copyright: 2010, Joel Martin
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncserver/zlib.c
+Copyright: 2000, Tridia Corporation.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncserver/zrle.c
+  3rdparty/libvncserver/libvncserver/zrleencodetemplate.c
+  3rdparty/libvncserver/libvncserver/zrleoutstream.c
+  3rdparty/libvncserver/libvncserver/zrleoutstream.h
+  3rdparty/libvncserver/libvncserver/zrlepalettehelper.c
+  3rdparty/libvncserver/libvncserver/zrlepalettehelper.h
+Copyright: 2003, Sun Microsystems, Inc.
+  2002, RealVNC Ltd.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/libvncserver/zrletypes.h
+Copyright: 2002, 2003, RealVNC Ltd.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/rfb/*
+Copyright: 2001, James "Wez" Weatherall, Johannes E. Schindelin
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/libvncserver/rfb/*
+
+Files: 3rdparty/libvncserver/rfb/keysym.h
+Copyright: 1987, X Consortium
+License: Expat
+
+Files: 3rdparty/libvncserver/rfb/rfb.h
+Copyright: 2005, Rohit Kumar <rokumar@novell.com>
+  2002, RealVNC Ltd.
+  2001, Dan McGuirk <mcguirk@incompleteness.net>.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/rfb/rfbclient.h
+Copyright: 2017, D. R. Commander.
+  2000, Tridia Corporation.
+  2000, 2001, Const Kaplinsky.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/rfb/rfbproto.h
+Copyright: 2009, 2010, D. R. Commander.
+  2005, Rohit Kumar, Johannes E. Schindelin
+  2004-2008, Sun Microsystems, Inc.
+  2000-2002, Constantin Kaplinsky.
+  2000, Tridia Corporation.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/test/*
+Copyright: 2009-2015, D. R. Commander.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/libvncserver/test/*
+
+Files: 3rdparty/libvncserver/test/bmp.c
+  3rdparty/libvncserver/test/bmp.h
+Copyright: 2009-2012, D. R. Commander
+  2005, 2006, Sun Microsystems, Inc.
+  2004, Landmark Graphics Corporation
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/libvncserver/test/bmp.c 3rdparty/libvncserver/test/bmp.h
+
+Files: 3rdparty/libvncserver/test/cursortest.c
+Copyright: 2001, 2005, Johannes E. Schindelin <Johannes.Schindelin@gmx.de>
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/test/wsmaketestframe.py
+  3rdparty/libvncserver/test/wstest.c
+Copyright: 2017, Andreas Weigel.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/libvncserver/test/wsmaketestframe.py 3rdparty/libvncserver/test/wstest.c
+
+Files: 3rdparty/libvncserver/utils/*
+Copyright: 2007, Luis Mondesi <lemsx1@gmail.com>
+  2007, 2008, Simon Josefsson <simon@josefsson.org>
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/webclients/*
+Copyright: 2002-2010, Karl J. Runge <runge@karlrunge.com>
+License: GPL-2+
+
+Files: 3rdparty/libvncserver/webclients/novnc/*
+Copyright: no-info-found
+License: MPL-2.0
+
+Files: 3rdparty/libvncserver/webclients/novnc/include/*
+Copyright: 2012, Joel Martin
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/libvncserver/webclients/novnc/include/*
+
+Files: 3rdparty/libvncserver/webclients/novnc/include/base.css
+  3rdparty/libvncserver/webclients/novnc/include/black.css
+  3rdparty/libvncserver/webclients/novnc/include/blue.css
+Copyright: 2013, Samuel Mannehed for Cendio AB
+  2012, Joel Martin
+License: MPL-2.0
+
+Files: 3rdparty/libvncserver/webclients/novnc/include/base64.js
+Copyright: no-info-found
+License: MPL-2.0
+
+Files: 3rdparty/libvncserver/webclients/novnc/include/chrome-app/*
+Copyright: 2012, Google Inc.
+License: Apache-2.0
+
+Files: 3rdparty/libvncserver/webclients/novnc/include/des.js
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/libvncserver/webclients/novnc/include/des.js
+
+Files: 3rdparty/libvncserver/webclients/novnc/include/input.js
+  3rdparty/libvncserver/webclients/novnc/include/rfb.js
+  3rdparty/libvncserver/webclients/novnc/include/ui.js
+Copyright: 2013, Samuel Mannehed for Cendio AB
+  2012, Joel Martin
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/libvncserver/webclients/novnc/include/input.js 3rdparty/libvncserver/webclients/novnc/include/rfb.js 3rdparty/libvncserver/webclients/novnc/include/ui.js
+
+Files: 3rdparty/libvncserver/webclients/novnc/include/jsunzip.js
+Copyright: 2011, Erik Moller
+License: Zlib
+
+Files: 3rdparty/libvncserver/webclients/novnc/include/web-socket-js/*
+Copyright: Hiroshi Ichikawa <http:gimite.net/en/>
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/libvncserver/webclients/novnc/include/web-socket-js/*
+
+Files: 3rdparty/libvncserver/webclients/novnc/include/webutil.js
+Copyright: 2013, NTT corp.
+  2012, Joel Martin
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/libvncserver/webclients/novnc/include/webutil.js
+
+Files: 3rdparty/ultravnc/*
+Copyright: 2002-2013, UltraVNC Team Members.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/DSMPlugin/MSRC4Plugin/*
+Copyright: 2005, Sean E. Covel
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/DSMPlugin/TestPlugin/*
+Copyright: 2002, Ultr@VNC.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/JavaViewer/*
+Copyright: 2001, 2002, Constantin Kaplinsky.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/JavaViewer/AuthPanel.java
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/JavaViewer/ButtonPanel.java
+Copyright: 2004, Kenn Min Chong, John Witchel.
+  2002, 2003, Ultr@VNC Team.
+  2001, 2002, HorizonLive.com, Inc.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/JavaViewer/ClipboardFrame.java
+Copyright: 2001, HorizonLive.com, Inc.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/JavaViewer/DesCipher.java
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: BSD-2-clause
+
+Files: 3rdparty/ultravnc/JavaViewer/FTPFrame.java
+Copyright: 2004, Kenn Min Chong, John Witchel.
+  2002-2005, Ultr@VNC Team.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/JavaViewer/OptionsFrame.java
+  3rdparty/ultravnc/JavaViewer/VncCanvas.java
+Copyright: 2001, 2002, HorizonLive.com, Inc.
+  2001, 2002, Constantin Kaplinsky.
+  2000, Tridia Corporation.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/JavaViewer/RfbProto.java
+Copyright: 2004, Kenn Min Chong, John Witchel.
+  2002-2004, Ultr@VNC Team.
+  2001, 2002, HorizonLive.com, Inc.
+  2001, 2002, Constantin Kaplinsky.
+  2000, Tridia Corporation.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/JavaViewer/VncViewer.java
+Copyright: 2004, Kenn Min Chong, John Witchel.
+  2004, Alban Chazot.
+  2002-2005, Ultr@VNC Team.
+  2002, Constantin Kaplinsky.
+  2001, 2002, HorizonLive.com, Inc.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/addon/ms-logon/MSLogonACL/*
+Copyright: 2004, Martin Scharpf.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/addon/ms-logon/authSSP/*
+Copyright: 2004, Martin Scharpf, B. Braun Melsungen AG.
+  2002, UltraVNC Team Members.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/addon/ms-logon/authSSP/Auth_Seq.h
+  3rdparty/ultravnc/addon/ms-logon/authSSP/vncSecurityEditor.h
+  3rdparty/ultravnc/addon/ms-logon/authSSP/vncSecurityEditorProps.h
+Copyright: 2004, Martin Scharpf, B. Braun Melsungen AG.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/addon/ms-logon/authSSP/vncAccessControl.cpp
+  3rdparty/ultravnc/addon/ms-logon/authSSP/vncSecurityEditor.cpp
+Copyright: 2004, Martin Scharpf.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/addon/ms-logon/authSSP/vncSSP.cpp
+Copyright: 2004, Martin Scharpf.
+  2002, UltraVNC Team Members.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/addon/versioninfo.h
+Copyright: 2004, Martin Scharpf, B. Braun Melsungen AG.
+  2002, Ultr@VNC Team Members.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/common/VersionHelpers.h
+Copyright: Microsoft Corp.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/common/VersionHelpers.h
+
+Files: 3rdparty/ultravnc/common/rfb.h
+Copyright: 2002, RealVNC Ltd.
+  1997, 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/common/winapifamily.h
+Copyright: Microsoft Corporation.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/common/winapifamily.h
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/*
+Copyright: 1991-1998, Thomas G. Lane.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/*
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/Makefile.in
+Copyright: 1989, 1991, 1994-2014, Free Software Foundation, Inc.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/Makefile.in
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/aclocal.m4
+Copyright: 1996-2014, Free Software Foundation, Inc.
+License: GPL
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/bmp.c
+  3rdparty/ultravnc/libjpeg-turbo-win/bmp.h
+  3rdparty/ultravnc/libjpeg-turbo-win/turbojpeg.h
+Copyright: 2009-2015, D. R. Commander.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/bmp.c 3rdparty/ultravnc/libjpeg-turbo-win/bmp.h 3rdparty/ultravnc/libjpeg-turbo-win/turbojpeg.h
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/cjpeg.c
+  3rdparty/ultravnc/libjpeg-turbo-win/djpeg.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jccolext.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jchuff.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jcmarker.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jcmaster.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jcparam.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jdapistd.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jdatadst.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jdatasrc.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jdcoefct.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jdcolext.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jdhuff.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jdhuff.h
+  3rdparty/ultravnc/libjpeg-turbo-win/jdinput.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jdmainct.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jdmarker.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jdmrgext.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jdphuff.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jerror.h
+  3rdparty/ultravnc/libjpeg-turbo-win/jidctflt.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jmorecfg.h
+  3rdparty/ultravnc/libjpeg-turbo-win/jpeglib.h
+  3rdparty/ultravnc/libjpeg-turbo-win/jquant2.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jstdhuff.c
+  3rdparty/ultravnc/libjpeg-turbo-win/rdbmp.c
+  3rdparty/ultravnc/libjpeg-turbo-win/rdswitch.c
+Copyright: 2009-2015, D. R. Commander.
+  1991-1998, Thomas G. Lane.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/cjpeg.c 3rdparty/ultravnc/libjpeg-turbo-win/djpeg.c 3rdparty/ultravnc/libjpeg-turbo-win/jccolext.c 3rdparty/ultravnc/libjpeg-turbo-win/jchuff.c 3rdparty/ultravnc/libjpeg-turbo-win/jcmarker.c 3rdparty/ultravnc/libjpeg-turbo-win/jcmaster.c 3rdparty/ultravnc/libjpeg-turbo-win/jcparam.c 3rdparty/ultravnc/libjpeg-turbo-win/jdapistd.c 3rdparty/ultravnc/libjpeg-turbo-win/jdatadst.c 3rdparty/ultravnc/libjpeg-turbo-win/jdatasrc.c 3rdparty/ultravnc/libjpeg-turbo-win/jdcoefct.c 3rdparty/ultravnc/libjpeg-turbo-win/jdcolext.c 3rdparty/ultravnc/libjpeg-turbo-win/jdhuff.c 3rdparty/ultravnc/libjpeg-turbo-win/jdhuff.h 3rdparty/ultravnc/libjpeg-turbo-win/jdinput.c 3rdparty/ultravnc/libjpeg-turbo-win/jdmainct.c 3rdparty/ultravnc/libjpeg-turbo-win/jdmarker.c 3rdparty/ultravnc/libjpeg-turbo-win/jdmrgext.c 3rdparty/ultravnc/libjpeg-turbo-win/jdphuff.c 3rdparty/ultravnc/libjpeg-turbo-win/jerror.h 3rdparty/ultravnc/libjpeg-turbo-win/jidctflt.c 3rdparty/ultravnc/libjpeg-turbo-win/jmorecfg.h 3rdparty/ultravnc/libjpeg-turbo-win/jpeglib.h 3rdparty/ultravnc/libjpeg-turbo-win/jquant2.c 3rdparty/ultravnc/libjpeg-turbo-win/jstdhuff.c 3rdparty/ultravnc/libjpeg-turbo-win/rdbmp.c 3rdparty/ultravnc/libjpeg-turbo-win/rdswitch.c
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/compile
+  3rdparty/ultravnc/libjpeg-turbo-win/depcomp
+  3rdparty/ultravnc/libjpeg-turbo-win/ltmain.sh
+  3rdparty/ultravnc/libjpeg-turbo-win/missing
+Copyright: 1996-2015, Free Software Foundation, Inc.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/configure
+Copyright: 1992-1996, 1998-2012, Free Software Foundation, Inc.
+License: FSFUL
+ Please fill license FSFUL from header of 3rdparty/ultravnc/libjpeg-turbo-win/configure
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/jccolor.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jddctmgr.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jdsample.c
+Copyright: 2013, 2014, MIPS Technologies, Inc., California
+  2009-2012, 2015, D. R. Commander.
+  2009, Pierre Ossman <ossman@cendio.se> for Cendio AB
+  1991-1996, Thomas G. Lane.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/jccolor.c 3rdparty/ultravnc/libjpeg-turbo-win/jddctmgr.c 3rdparty/ultravnc/libjpeg-turbo-win/jdsample.c
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/jcdctmgr.c
+Copyright: 2011, 2014, 2015, D. R. Commander
+  2009, Pierre Ossman <ossman@cendio.se> for Cendio AB
+  1999-2006, MIYASAKA Masaru.
+  1994-1996, Thomas G. Lane.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/jcdctmgr.c
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/jcomapi.c
+Copyright: 1994-1997, Thomas G. Lane.0
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/jcomapi.c
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/jcsample.c
+Copyright: 2014, MIPS Technologies, Inc., California
+  2009, Pierre Ossman <ossman@cendio.se> for Cendio AB
+  1991-1996, Thomas G. Lane.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/jcsample.c
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/jdcol565.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jdmrg565.c
+  3rdparty/ultravnc/libjpeg-turbo-win/wrbmp.c
+Copyright: 2014, D. R. Commander.
+  2013, Linaro Limited.
+  1991-1997, Thomas G. Lane.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/jdcol565.c 3rdparty/ultravnc/libjpeg-turbo-win/jdmrg565.c 3rdparty/ultravnc/libjpeg-turbo-win/wrbmp.c
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/jdcolor.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jdmerge.c
+Copyright: 2013, Linaro Limited.
+  2009, Pierre Ossman <ossman@cendio.se> for Cendio AB
+  2009, 2011, 2012, 2014, 2015, D. R. Commander.
+  1991-1997, Thomas G. Lane.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/jdcolor.c 3rdparty/ultravnc/libjpeg-turbo-win/jdmerge.c
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/jdmaster.c
+Copyright: 2013, Linaro Limited.
+  2009-2011, D. R. Commander.
+  1991-1997, Thomas G. Lane.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/jdmaster.c
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/jfdctint.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jidctint.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jidctred.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jpegint.h
+  3rdparty/ultravnc/libjpeg-turbo-win/jquant1.c
+  3rdparty/ultravnc/libjpeg-turbo-win/wrjpgcom.c
+Copyright: 2009, 2014, 2015, D. R. Commander
+  1991-1998, Thomas G. Lane.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/jfdctint.c 3rdparty/ultravnc/libjpeg-turbo-win/jidctint.c 3rdparty/ultravnc/libjpeg-turbo-win/jidctred.c 3rdparty/ultravnc/libjpeg-turbo-win/jpegint.h 3rdparty/ultravnc/libjpeg-turbo-win/jquant1.c 3rdparty/ultravnc/libjpeg-turbo-win/wrjpgcom.c
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/jpegcomp.h
+Copyright: 2010, D. R. Commander
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/jpegcomp.h
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/jpegtran.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jversion.h
+  3rdparty/ultravnc/libjpeg-turbo-win/transupp.c
+Copyright: 2010, 2012-2015, D. R. Commander.
+  1991-2012, Thomas G. Lane, Guido Vollbeding.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/jpegtran.c 3rdparty/ultravnc/libjpeg-turbo-win/jversion.h 3rdparty/ultravnc/libjpeg-turbo-win/transupp.c
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/jpegut.c
+  3rdparty/ultravnc/libjpeg-turbo-win/jpgtest.cxx
+  3rdparty/ultravnc/libjpeg-turbo-win/rrutil.h
+  3rdparty/ultravnc/libjpeg-turbo-win/turbojpegl.c
+Copyright: 2009-2012, D. R. Commander
+  2005, 2006, Sun Microsystems, Inc.
+  2004, Landmark Graphics Corporation
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/jpegut.c 3rdparty/ultravnc/libjpeg-turbo-win/jpgtest.cxx 3rdparty/ultravnc/libjpeg-turbo-win/rrutil.h 3rdparty/ultravnc/libjpeg-turbo-win/turbojpegl.c
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/jsimd.h
+  3rdparty/ultravnc/libjpeg-turbo-win/jsimd_none.c
+Copyright: 2009-2011, 2013, 2014, D. R. Commander
+  2009, Pierre Ossman <ossman@cendio.se> for Cendio AB
+  1999-2006, MIYASAKA Masaru.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/jsimd.h 3rdparty/ultravnc/libjpeg-turbo-win/jsimd_none.c
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/jsimddct.h
+Copyright: 2009, Pierre Ossman <ossman@cendio.se> for Cendio AB
+  1999-2006, MIYASAKA Masaru.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/jsimddct.h
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/rdcolmap.c
+  3rdparty/ultravnc/libjpeg-turbo-win/rdppm.c
+  3rdparty/ultravnc/libjpeg-turbo-win/wrgif.c
+Copyright: 1991-1997, Thomas G. Lane.
+License: NTP
+ Please fill license NTP from header of 3rdparty/ultravnc/libjpeg-turbo-win/rdcolmap.c 3rdparty/ultravnc/libjpeg-turbo-win/rdppm.c 3rdparty/ultravnc/libjpeg-turbo-win/wrgif.c
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/rrtimer.h
+Copyright: 2005, Sun Microsystems, Inc.
+  2004, Landmark Graphics Corporation
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/rrtimer.h
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/simd/*
+Copyright: 2009-2011, 2013, 2014, D. R. Commander
+  2009, Pierre Ossman <ossman@cendio.se> for Cendio AB
+  1999-2006, MIYASAKA Masaru.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/simd/*
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/simd/Makefile.in
+Copyright: 1989, 1991, 1994-2014, Free Software Foundation, Inc.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/simd/Makefile.in
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/simd/jcolsamp.inc
+  3rdparty/ultravnc/libjpeg-turbo-win/simd/jdct.inc
+Copyright: 2009, Pierre Ossman <ossman@cendio.se> for Cendio AB
+  1999-2006, MIYASAKA Masaru.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/simd/jcolsamp.inc 3rdparty/ultravnc/libjpeg-turbo-win/simd/jdct.inc
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/simd/jsimd.h
+Copyright: 2014, Linaro Limited
+  2013, 2014, MIPS Technologies, Inc., California
+  2011, D. R. Commander
+  2009, Pierre Ossman <ossman@cendio.se> for Cendio AB
+  1999-2006, MIYASAKA Masaru.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/simd/jsimd.h
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/simd/jsimdext.inc
+Copyright: 2010, D. R. Commander
+  2009, Pierre Ossman <ossman@cendio.se> for Cendio AB
+  1999-2006, MIYASAKA Masaru.
+License: Zlib
+
+Files: 3rdparty/ultravnc/libjpeg-turbo-win/transupp.h
+Copyright: 1997-2011, Thomas G. Lane, Guido Vollbeding.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/libjpeg-turbo-win/transupp.h
+
+Files: 3rdparty/ultravnc/lzo.orig/*
+Copyright: 1996-2014, Markus Franz Xaver Johannes Oberhumer
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/old/*
+Copyright: 2002-2007, Ultr@VNC Team Members.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/old/tabbed_viewer/*
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/old/tabbed_viewer/AccelKeys.cpp
+  3rdparty/ultravnc/old/tabbed_viewer/AccelKeys.h
+  3rdparty/ultravnc/old/tabbed_viewer/ClientConnectionCacheRect.cpp
+  3rdparty/ultravnc/old/tabbed_viewer/FileTransfer.cpp
+  3rdparty/ultravnc/old/tabbed_viewer/FileTransfer.h
+  3rdparty/ultravnc/old/tabbed_viewer/TextChat.cpp
+  3rdparty/ultravnc/old/tabbed_viewer/TextChat.h
+Copyright: 2002-2007, Ultr@VNC Team Members.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/old/tabbed_viewer/AuthDialog.cpp
+  3rdparty/ultravnc/old/tabbed_viewer/AuthDialog.h
+  3rdparty/ultravnc/old/tabbed_viewer/SessionDialog.cpp
+  3rdparty/ultravnc/old/tabbed_viewer/SessionDialog.h
+  3rdparty/ultravnc/old/tabbed_viewer/vncviewer.cpp
+Copyright: 2002, Ultr@VNC Team Members.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/old/tabbed_viewer/ClientConnection.cpp
+  3rdparty/ultravnc/old/tabbed_viewer/VNCOptions.cpp
+  3rdparty/ultravnc/old/tabbed_viewer/VNCOptions.h
+Copyright: 2002, Ultr@VNC Team Members.
+  2002, RealVNC Ltd.
+  2000-2002, Const Kaplinsky.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/old/tabbed_viewer/ClientConnection.h
+Copyright: 2002, Ultr@VNC Team Members.
+  2000-2002, Const Kaplinsky.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/old/tabbed_viewer/ClientConnectionCursor.cpp
+Copyright: 2000, 2001, Const Kaplinsky.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/old/tabbed_viewer/ClientConnectionTight.cpp
+Copyright: 2000, 2001, Const Kaplinsky.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/old/tabbed_viewer/ClientConnectionUltra.cpp
+  3rdparty/ultravnc/old/tabbed_viewer/ClientConnectionZlib.cpp
+  3rdparty/ultravnc/old/tabbed_viewer/ClientConnectionZlibHex.cpp
+Copyright: 2000, Tridia Corporation.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/old/tabbed_viewer/LowLevelHook.cpp
+  3rdparty/ultravnc/old/tabbed_viewer/LowLevelHook.h
+Copyright: no-info-found
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/old/tabbed_viewer/d3des.c
+  3rdparty/ultravnc/old/tabbed_viewer/d3des.h
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/old/tabbed_viewer/d3des.c 3rdparty/ultravnc/old/tabbed_viewer/d3des.h
+
+Files: 3rdparty/ultravnc/old/tabbed_viewer/keysym.h
+  3rdparty/ultravnc/old/tabbed_viewer/keysymdef.h
+Copyright: 1987, 1994, 1998, The Open Group
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/old/tabbed_viewer/keysym.h 3rdparty/ultravnc/old/tabbed_viewer/keysymdef.h
+
+Files: 3rdparty/ultravnc/old/tabbed_viewer/omnithread/*
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: LGPL-2+
+
+Files: 3rdparty/ultravnc/old/tabbed_viewer/rfb.h
+Copyright: 2002, RealVNC Ltd.
+  1997, 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/old/tabbed_viewer/zrle.cpp
+Copyright: 2002, RealVNC Ltd.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/old/tabbed_viewer/zrle.cpp
+
+Files: 3rdparty/ultravnc/rdr/*
+Copyright: 2002, 2003, RealVNC Ltd.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/rdr/FdInStream.cxx
+Copyright: 2002, UltraVNC Team Members.
+  2002, RealVNC Ltd.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/repeater/*
+Copyright: 2002-2007, Ultr@VNC Team Members.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/repeater/resources.h
+Copyright: 2002, Ultr@VNC Team Members.
+License: BSD-3-clause
+
+Files: 3rdparty/ultravnc/repeater/webgui/*
+Copyright: 2007, John Bartas
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/repeater/webgui/*
+
+Files: 3rdparty/ultravnc/rfb/*
+Copyright: 2002, 2003, RealVNC Ltd.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/rfb/d3des.c
+  3rdparty/ultravnc/rfb/d3des.h
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/rfb/d3des.c 3rdparty/ultravnc/rfb/d3des.h
+
+Files: 3rdparty/ultravnc/rfb/dh.h
+Copyright: 2002-2013, UltraVNC Team Members.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/rfb/rfbproto.h
+Copyright: 2009, D. R. Commander.
+  2008, Sun Microsystems, Inc.
+  2002, UltraVNC Team Members.
+  2002, RealVNC Ltd.
+  2000-2002, Const Kaplinsky.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/rfb/vncauth.c
+Copyright: 2002, RealVNC Ltd.
+  1997, 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/rfb/vncauth.h
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/rfb/xzywtemplate.c
+  3rdparty/ultravnc/rfb/zywrletemplate.c
+Copyright: 2006
+License: BSD-3-clause
+
+Files: 3rdparty/ultravnc/uvnc_settings2/uvnc_settings/vncsetauth.cpp
+Copyright: 2002, RealVNC Ltd.
+  1997, 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/uvnc_settings2/uvnc_settings/vncsetauth.h
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/vncviewer/ClientConnectionClipboard.cpp
+  3rdparty/ultravnc/vncviewer/ClientConnectionCopyRect.cpp
+  3rdparty/ultravnc/vncviewer/ClientConnectionFile.cpp
+  3rdparty/ultravnc/vncviewer/ClientConnectionFullScreen.cpp
+  3rdparty/ultravnc/vncviewer/ClientConnectionRRE.cpp
+  3rdparty/ultravnc/vncviewer/KeyMap.cpp
+  3rdparty/ultravnc/vncviewer/KeyMap.h
+  3rdparty/ultravnc/vncviewer/Log.cpp
+  3rdparty/ultravnc/vncviewer/Log.h
+  3rdparty/ultravnc/vncviewer/MEssBox.h
+  3rdparty/ultravnc/vncviewer/MessBox.cpp
+  3rdparty/ultravnc/vncviewer/bmpFlasher.cpp
+  3rdparty/ultravnc/vncviewer/bmpFlasher.h
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/vncviewer/d3des.c
+  3rdparty/ultravnc/vncviewer/d3des.h
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/vncviewer/d3des.c 3rdparty/ultravnc/vncviewer/d3des.h
+
+Files: 3rdparty/ultravnc/vncviewer/keysym.h
+  3rdparty/ultravnc/vncviewer/keysymdef.h
+Copyright: 1987, 1994, 1998, The Open Group
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/vncviewer/keysym.h 3rdparty/ultravnc/vncviewer/keysymdef.h
+
+Files: 3rdparty/ultravnc/vncviewer/omnithread/*
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: LGPL-2+
+
+Files: 3rdparty/ultravnc/vncviewer/xz.cpp
+  3rdparty/ultravnc/vncviewer/zrle.cpp
+Copyright: 2002, RealVNC Ltd.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/vncviewer/xz.cpp 3rdparty/ultravnc/vncviewer/zrle.cpp
+
+Files: 3rdparty/ultravnc/winvnc/*
+Copyright: 2000, 2001, Const Kaplinsky.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/omnithread/*
+Copyright: 1995-2000, AT&T Laboratories Cambridge
+License: LGPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/omnithread/nt.h
+  3rdparty/ultravnc/winvnc/omnithread/omnithread.h
+Copyright: 1994-1997, Olivetti & Oracle Research Laboratory
+License: LGPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/omnithread/omnithread/nt.h
+Copyright: 1994-1997, Olivetti & Oracle Research Laboratory
+License: LGPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/vnchooks/SharedData.cpp
+Copyright: 2000, 2001, Const Kaplinsky.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/vnchooks/VNCHooks.cpp
+Copyright: 2002, UltraVNC Team Members.
+  2002, RealVNC Ltd.
+  1997, 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/vnchooks/VNCHooks.h
+Copyright: 2002, RealVNC Ltd.
+  1997, 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/*
+Copyright: 2002-2013, UltraVNC Team Members.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/Dtwinver.h
+Copyright: 1997-2015, PJ Naughter (Web: www.naughter.com, Email: pjna@naughter.com)
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/winvnc/winvnc/Dtwinver.h
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/Timer.cpp
+  3rdparty/ultravnc/winvnc/winvnc/Timer.h
+Copyright: 2002, Ultr@VNC Team Members.
+  2002, RealVNC Ltd.
+  2000-2002, Const Kaplinsky.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/d3des.c
+  3rdparty/ultravnc/winvnc/winvnc/d3des.h
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/winvnc/winvnc/d3des.c 3rdparty/ultravnc/winvnc/winvnc/d3des.h
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/keysymdef.h
+Copyright: 1987, 1994, 1998, The Open Group
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/winvnc/winvnc/keysymdef.h
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/minmax.h
+  3rdparty/ultravnc/winvnc/winvnc/translate.cpp
+  3rdparty/ultravnc/winvnc/winvnc/translate.h
+  3rdparty/ultravnc/winvnc/winvnc/vncabout.h
+  3rdparty/ultravnc/winvnc/winvnc/vncacceptdialog.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncacceptdialog.h
+  3rdparty/ultravnc/winvnc/winvnc/vncauth.c
+  3rdparty/ultravnc/winvnc/winvnc/vncauth.h
+  3rdparty/ultravnc/winvnc/winvnc/vncconndialog.h
+  3rdparty/ultravnc/winvnc/winvnc/vnchttpconnect.h
+  3rdparty/ultravnc/winvnc/winvnc/vncinsthandler.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncinsthandler.h
+  3rdparty/ultravnc/winvnc/winvnc/vncmenu.h
+  3rdparty/ultravnc/winvnc/winvnc/vncsetauth.h
+  3rdparty/ultravnc/winvnc/winvnc/vncsockconnect.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncsockconnect.h
+  3rdparty/ultravnc/winvnc/winvnc/vnctimedmsgbox.h
+  3rdparty/ultravnc/winvnc/winvnc/vtypes.h
+  3rdparty/ultravnc/winvnc/winvnc/winvnc.h
+Copyright: 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/rfb.h
+  3rdparty/ultravnc/winvnc/winvnc/stdhdrs.cpp
+  3rdparty/ultravnc/winvnc/winvnc/stdhdrs.h
+  3rdparty/ultravnc/winvnc/winvnc/vncabout.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncencodecorre.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncencodecorre.h
+  3rdparty/ultravnc/winvnc/winvnc/vncencodehext.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncencodehext.h
+  3rdparty/ultravnc/winvnc/winvnc/vncencoderre.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncencoderre.h
+  3rdparty/ultravnc/winvnc/winvnc/vnckeymap.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vnckeymap.h
+  3rdparty/ultravnc/winvnc/winvnc/vnclog.h
+  3rdparty/ultravnc/winvnc/winvnc/vncpasswd.h
+  3rdparty/ultravnc/winvnc/winvnc/vncservice.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncservice.h
+  3rdparty/ultravnc/winvnc/winvnc/vncsetauth.cpp
+Copyright: 2002, RealVNC Ltd.
+  1997, 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/rfbMisc.h
+  3rdparty/ultravnc/winvnc/winvnc/rfbRect.h
+  3rdparty/ultravnc/winvnc/winvnc/rfbRegion.h
+  3rdparty/ultravnc/winvnc/winvnc/rfbRegion_X11.cxx
+  3rdparty/ultravnc/winvnc/winvnc/rfbRegion_X11.h
+  3rdparty/ultravnc/winvnc/winvnc/rfbRegion_win32.cpp
+  3rdparty/ultravnc/winvnc/winvnc/rfbRegion_win32.h
+  3rdparty/ultravnc/winvnc/winvnc/vncEncodeXZ.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncEncodeXZ.h
+  3rdparty/ultravnc/winvnc/winvnc/vncencodezrle.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncencodezrle.h
+  3rdparty/ultravnc/winvnc/winvnc/vnclog.cpp
+Copyright: 2002, 2003, RealVNC Ltd.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/rfbUpdateTracker.cpp
+  3rdparty/ultravnc/winvnc/winvnc/rfbUpdateTracker.h
+Copyright: 2002, UltraVNC Team Members.
+  2002, RealVNC Ltd.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/vncEncodeTight.cpp
+Copyright: 2010, 2015, D. R. Commander.
+  2005-2008, Sun Microsystems, Inc.
+  2004, Landmark Graphics Corporation.
+  2000, Tridia Corporation.
+  2000, Const Kaplinsky.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/vncEncodeTight.h
+Copyright: 2015, D. R. Commander.
+  2000, Tridia Corporation.
+  2000, Constantin Kaplinsky.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/vncEncodeZlib.cpp
+Copyright: 2002, UltraVNC Team Members.
+  2000, Tridia Corporation.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/vncEncodeZlib.h
+  3rdparty/ultravnc/winvnc/winvnc/vncEncodeZlibHex.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncEncodeZlibHex.h
+Copyright: 2000, Tridia Corporation.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/vncOSVersion.h
+Copyright: 2002-2007, Ultr@VNC Team Members.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/vncbuffer.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncclient.h
+  3rdparty/ultravnc/winvnc/winvnc/vncdesktop.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncdesktop.h
+  3rdparty/ultravnc/winvnc/winvnc/vnchttpconnect.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncserver.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncserver.h
+Copyright: 2002, UltraVNC Team Members.
+  2002, RealVNC Ltd.
+  2000-2002, Const Kaplinsky.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/vncbuffer.h
+  3rdparty/ultravnc/winvnc/winvnc/vncmenu.cpp
+Copyright: 2002, UltraVNC Team Members.
+  2002, RealVNC Ltd.
+  1997, 1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/vncclient.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncencodemgr.h
+  3rdparty/ultravnc/winvnc/winvnc/vncencoder.h
+Copyright: 2015, D. R. Commander.
+  2002, UltraVNC Team Members.
+  2002, RealVNC Ltd.
+  2000-2002, Const Kaplinsky.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/vncconndialog.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vnctimedmsgbox.cpp
+  3rdparty/ultravnc/winvnc/winvnc/winvnc.cpp
+Copyright: 2002, 2007, UltraVNC Team Members.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/vncencoder.cpp
+Copyright: 2015, D. R. Commander.
+  2002, UltraVNC Team Members.
+  2002, RealVNC Ltd.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/vncproperties.cpp
+  3rdparty/ultravnc/winvnc/winvnc/vncpropertiesPoll.cpp
+Copyright: 2002, UltraVNC Team Members.
+  2002, TightVNC.
+  2002, RealVNC Ltd.
+  2000-2002, Const Kaplinsky.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/vsocket.cpp
+Copyright: 2002, RealVNC Ltd.
+  2001, HorizonLive.com, Inc.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/winvnc/winvnc/vsocket.h
+Copyright: 2001, HorizonLive.com, Inc.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/xz-5.2.1/*
+Copyright: 1989, 1991, 1994-2014, Free Software Foundation, Inc.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/xz-5.2.1/*
+
+Files: 3rdparty/ultravnc/xz-5.2.1/src/scripts/*
+Copyright: 1998, 2001, 2002, 2006, 2007, Free Software Foundation
+  1992, 1993, Jean-loup Gailly
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/xz-5.2.1/src/scripts/Makefile.in
+Copyright: 1989, 1991, 1994-2014, Free Software Foundation, Inc.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/xz-5.2.1/src/scripts/Makefile.in
+
+Files: 3rdparty/ultravnc/xz-5.2.1/src/scripts/xzless.in
+Copyright: 1998, 2002, 2006, 2007, Free Software Foundation
+License: GPL-2+
+
+Files: 3rdparty/ultravnc/zipunzip_src/*
+Copyright: 1990-2006, Info-ZIP.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/zipunzip_src/*
+
+Files: 3rdparty/ultravnc/zipunzip_src/unzip/envargs.c
+Copyright: 1990-2005, Info-ZIP.
+License: public-domain
+ Please fill license public-domain from header of 3rdparty/ultravnc/zipunzip_src/unzip/envargs.c
+
+Files: 3rdparty/ultravnc/zlib-1.2.5/*
+Copyright: 1995-2010, Mark Adler
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/zlib-1.2.5/*
+
+Files: 3rdparty/ultravnc/zlib-1.2.5/ChangeLog
+Copyright: dates on modified source files
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/zlib-1.2.5/ChangeLog
+
+Files: 3rdparty/ultravnc/zlib-1.2.5/Makefile.in
+  3rdparty/ultravnc/zlib-1.2.5/compress.c
+  3rdparty/ultravnc/zlib-1.2.5/example.c
+  3rdparty/ultravnc/zlib-1.2.5/minigzip.c
+  3rdparty/ultravnc/zlib-1.2.5/uncompr.c
+  3rdparty/ultravnc/zlib-1.2.5/zconf.h
+  3rdparty/ultravnc/zlib-1.2.5/zconf.h.in
+  3rdparty/ultravnc/zlib-1.2.5/zutil.c
+  3rdparty/ultravnc/zlib-1.2.5/zutil.h
+Copyright: 1995-2010, Jean-loup Gailly.
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/zlib-1.2.5/Makefile.in 3rdparty/ultravnc/zlib-1.2.5/compress.c 3rdparty/ultravnc/zlib-1.2.5/example.c 3rdparty/ultravnc/zlib-1.2.5/minigzip.c 3rdparty/ultravnc/zlib-1.2.5/uncompr.c 3rdparty/ultravnc/zlib-1.2.5/zconf.h 3rdparty/ultravnc/zlib-1.2.5/zconf.h.in 3rdparty/ultravnc/zlib-1.2.5/zutil.c 3rdparty/ultravnc/zlib-1.2.5/zutil.h
+
+Files: 3rdparty/ultravnc/zlib-1.2.5/contrib/*
+Copyright: conditions above. / 2003, Chris Anderson <christop@charm.net> / 1995-2003, Mark Adler
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/zlib-1.2.5/contrib/*
+
+Files: 3rdparty/ultravnc/zlib-1.2.5/contrib/minizip/*
+Copyright: 2009, 2010, Mathias Svensson ( http:result42.com )
+  1998-2010, Gilles Vollant (minizip) ( http:www.winimage.com/zLibDll/minizip.html )
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/zlib-1.2.5/contrib/minizip/*
+
+Files: 3rdparty/ultravnc/zlib-1.2.5/contrib/minizip/crypt.h
+Copyright: 1998-2005, Gilles Vollant
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/zlib-1.2.5/contrib/minizip/crypt.h
+
+Files: 3rdparty/ultravnc/zlib-1.2.5/contrib/minizip/miniunz.c
+  3rdparty/ultravnc/zlib-1.2.5/contrib/minizip/minizip.c
+  3rdparty/ultravnc/zlib-1.2.5/contrib/minizip/unzip.c
+Copyright: 2009, 2010, Mathias Svensson ( http:result42.com )
+  2007, 2008, Even Rouault
+  1998-2010, Gilles Vollant (minizip) ( http:www.winimage.com/zLibDll/minizip.html )
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/zlib-1.2.5/contrib/minizip/miniunz.c 3rdparty/ultravnc/zlib-1.2.5/contrib/minizip/minizip.c 3rdparty/ultravnc/zlib-1.2.5/contrib/minizip/unzip.c
+
+Files: 3rdparty/ultravnc/zlib-1.2.5/contrib/minizip/unzip.h
+Copyright: 2009, 2010, Mathias Svensson ( http:result42.com )
+  2007, 2008, Even Rouault
+  1998-2010, Gilles Vollant (minizip) ( http:www.winimage.com/zLibDll/minizip.html )
+License: Zlib
+
+Files: 3rdparty/ultravnc/zlib-1.2.5/contrib/minizip/zip.h
+Copyright: 2009, 2010, Mathias Svensson ( http:result42.com )
+  1998-2010, Gilles Vollant (minizip) ( http:www.winimage.com/zLibDll/minizip.html )
+License: Zlib
+
+Files: 3rdparty/ultravnc/zlib-1.2.5/deflate.c
+Copyright: 1995-2010, Jean-loup Gailly and Mark Adler
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/zlib-1.2.5/deflate.c
+
+Files: 3rdparty/ultravnc/zlib-1.2.5/deflate.h
+  3rdparty/ultravnc/zlib-1.2.5/trees.c
+Copyright: 1995-2010, Jean-loup Gailly
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/ultravnc/zlib-1.2.5/deflate.h 3rdparty/ultravnc/zlib-1.2.5/trees.c
+
+Files: 3rdparty/ultravnc/zlib-1.2.5/zlib.h
+Copyright: 1995-2010, Jean-loup Gailly and Mark Adler
+License: Zlib
+
+Files: 3rdparty/x11vnc/*
+Copyright: 2002-2010, Karl J. Runge <runge@karlrunge.com>
+License: GPL-2+
+
+Files: 3rdparty/x11vnc/m4/*
+Copyright: 2008, Lars Brinkhoff <lars@nocrew.org>
+License: GPL-2+
+
+Files: 3rdparty/x11vnc/misc/deskshot
+Copyright: 2015, Christian Beier <dontmind@sdf.org>
+License: GPL-2
+
+Files: 3rdparty/x11vnc/misc/enhanced_tightvnc_viewer/*
+Copyright: 2002-2010, Karl J. Runge <runge@karlrunge.com>
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/x11vnc/misc/enhanced_tightvnc_viewer/*
+
+Files: 3rdparty/x11vnc/misc/enhanced_tightvnc_viewer/bin/util/*
+Copyright: 2002-2010, Karl J. Runge <runge@karlrunge.com>
+License: GPL-2+
+
+Files: 3rdparty/x11vnc/misc/enhanced_tightvnc_viewer/man/man1/ssvncviewer.1
+Copyright: 2006-2010, Karl J. Runge <runge@karlrunge.com>
+  2001-2003, Constantin Kaplinsky <const@ce.cctpu.edu.ru>
+  2000, 2001, Red Hat, Inc.
+  1998, Marcus.Brinkmann@ruhr-uni-bochum.de
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/x11vnc/misc/enhanced_tightvnc_viewer/man/man1/ssvncviewer.1
+
+Files: 3rdparty/x11vnc/misc/turbovnc/*
+Copyright: 2005-2008, Sun Microsystems, Inc.
+  2004, Landmark Graphics Corporation.
+  2000, 2001, Const Kaplinsky.
+  1999, AT&T Laboratories Cambridge.
+License: GPL-2+
+
+Files: 3rdparty/x11vnc/misc/turbovnc/turbojpeg.h
+Copyright: 2005, 2006, Sun Microsystems, Inc.
+  2004, Landmark Graphics
+License: UNKNOWN
+ Please fill license UNKNOWN from header of 3rdparty/x11vnc/misc/turbovnc/turbojpeg.h
+
+Files: 3rdparty/x11vnc/src/tkx11vnc.h
+Copyright: 2004-2009, Karl J. Runge <runge@karlrunge.com>n"
+License: GPL
+
+Files: 3rdparty/x11vnc/src/x11vnc.c
+Copyright: 2002-2010, Karl J. Runge <runge@karlrunge.com>
+License: GPL-2
+
+Files: 3rdparty/x11vnc/src/xi2_devices.c
+  3rdparty/x11vnc/src/xi2_devices.h
+Copyright: 2009, 2010, Christian Beier <dontmind@freeshell.org>
+License: GPL-2+
+
+Files: configurator/veyon-configurator.rc.in
+Copyright: 2004-2018, Tobias Junghans0"
+License: UNKNOWN
+ Please fill license UNKNOWN from header of configurator/veyon-configurator.rc.in
+
+Files: core/include/VncConnection.h
+Copyright: 2008-2018, Tobias Junghans <tobydox@veyon.io>
+  2007, 2008, Urs Wolfer <uwolfer @ kde.org>
+License: GPL-2+
+
+Files: core/src/VncConnection.cpp
+Copyright: 2008-2018, Tobias Junghans <tobydox@veyon.io>
+  2007, 2008, Urs Wolfer <uwolfer @ kde.org>
+License: GPL-2+
+
+Files: cli/veyon-cli.rc.in
+Copyright: 2004-2018, Tobias Junghans0"
+License: UNKNOWN
+ Please fill license UNKNOWN from header of cli/veyon-cli.rc.in
+
+Files: debian/*
+Copyright: 2018, Tobias Junghans <tobydox@veyon.io>
+License: permissive
+ Copying and distribution of this package, with or without
+ modification, are permitted in any medium without royalty
+ provided the copyright notice and this notice are
+ preserved.
+
+Files: master/veyon-master.rc.in
+Copyright: 2004-2018, Tobias Junghans0"
+License: UNKNOWN
+ Please fill license UNKNOWN from header of master/veyon-master.rc.in
+
+Files: nsis/*
+Copyright: Tobias Junghans 2004-2018"
+License: UNKNOWN
+ Please fill license UNKNOWN from header of nsis/*
+
+Files: server/veyon-server.rc.in
+Copyright: 2004-2018, Tobias Junghans0"
+License: UNKNOWN
+ Please fill license UNKNOWN from header of server/veyon-server.rc.in
+
+Files: service/veyon-service.rc.in
+Copyright: 2004-2018, Tobias Junghans0"
+License: UNKNOWN
+ Please fill license UNKNOWN from header of service/veyon-service.rc.in
+
+Files: worker/veyon-worker.rc.in
+Copyright: 2004-2018, Tobias Junghans0"
+License: UNKNOWN
+ Please fill license UNKNOWN from header of worker/veyon-worker.rc.in
+
+License: Apache-2.0
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+     http://www.apache.org/licenses/LICENSE-2.0
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS"BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ .
+ On Debian systems, the complete text of the Apache License,
+ Version 2.0 can be found in '/usr/share/common-licenses/Apache-2.0'.
+
+License: BSD-2-clause
+ Please fill license BSD-2-clause from header of 3rdparty/libvncserver/common/sha.h
+
+License: BSD-3-clause
+ The BSD License
+ .
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are
+ met:
+ .
+   * Redistributions of source code must retain the above copyright
+     notice, this list of conditions and the following disclaimer.
+ .
+   * Redistributions in binary form must reproduce the above copyright
+     notice, this list of conditions and the following disclaimer in the
+     documentation and/or other materials provided with the distribution. 
+ .
+   * Neither the name of foo nor the names of its
+     contributors may be used to endorse or promote products derived from
+     this software without specific prior written permission. 
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
+ IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
+ TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+ PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR
+ CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+ EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+ PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+ PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+ LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+ NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+License: Expat
+ The MIT License
+ .
+ Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated
+ documentation files (the "Software"), to deal in the Software
+ without restriction, including without limitation the rights to
+ use, copy, modify, merge, publish, distribute, sublicense,
+ and/or sell copies of the Software, and to permit persons to
+ whom the Software is furnished to do so, subject to the
+ following conditions:
+ .
+ The above copyright notice and this permission notice shall
+ be included in all copies or substantial portions of the
+ Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT
+ WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+ INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR
+ PURPOSE AND NONINFRINGEMENT. IN NO EVENT
+ SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+ CONNECTION WITH THE SOFTWARE OR THE USE OR
+ OTHER DEALINGS IN THE SOFTWARE.
+
+License: GPL
+ Please fill license GPL from header of 3rdparty/ultravnc/libjpeg-turbo-win/aclocal.m4
+
+License: GPL-2
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; version 2 dated June, 1991.
+ .
+ On Debian systems, the complete text of version 2 of the GNU General
+ Public License can be found in '/usr/share/common-licenses/GPL-2'.
+
+License: GPL-2+
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; version 2 dated June, 1991, or (at
+ your option) any later version.
+ .
+ On Debian systems, the complete text of version 2 of the GNU General
+ Public License can be found in '/usr/share/common-licenses/GPL-2'.
+
+License: LGPL-2+
+ This program is free software; you can redistribute it and/or modify it
+ under the terms of the GNU Library General Public License as published by the
+ Free Software Foundation; version 2 of the License, or (at
+ your option) any later version.
+ .
+ On Debian systems, the complete text of version 2 of the GNU Library
+ General Public License can be found in `/usr/share/common-licenses/LGPL-2'.
+
+License: LGPL-2.1+
+ This program is free software; you can redistribute it and/or modify it
+ under the terms of the GNU Lesser General Public License as published by the
+ Free Software Foundation; version 2.1 of the License, or (at
+ your option) any later version.
+ .
+ On Debian systems, the complete text of version 2.1 of the GNU Lesser
+ General Public License can be found in `/usr/share/common-licenses/LGPL-2.1'.
+
+License: MPL-2.0
+ Please fill license MPL-2.0 from header of 3rdparty/libvncserver/webclients/novnc/*
+
+License: Zlib
+ The zlib License
+ .
+ This software is provided 'as-is', without any express or implied
+ warranty. In no event will the authors be held liable for any damages
+ arising from the use of this software.
+ .
+ Permission is granted to anyone to use this software for any purpose,
+ including commercial applications, and to alter it and redistribute it
+ freely, subject to the following restrictions:
+ .
+   1. The origin of this software must not be misrepresented; you must
+      not claim that you wrote the original software. If you use this
+      software in a product, an acknowledgment in the product
+      documentation would be appreciated but is not required.
+ .
+   2. Altered source versions must be plainly marked as such, and must
+      not be misrepresented as being the original software.
+ .
+   3. This notice may not be removed or altered from any source
+      distribution.
